@@ -1,4 +1,4 @@
-package org.boardproject.tictactoe
+package org.boardsproject.tictactoe
 
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.extension.ExtendWith

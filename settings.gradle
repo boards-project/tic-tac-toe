@@ -1,4 +1,3 @@
 rootProject.name = 'tic-tac-toe'
 
-include "tic-tac-toe-backend"
-include "tic-tac-toe-ui"
+include "tic-tac-toe-service"
